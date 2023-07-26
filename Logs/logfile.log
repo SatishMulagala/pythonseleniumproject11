@@ -1,0 +1,87 @@
+2023-07-24 20:32:11,875 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 20:32:14,355 :DEBUG :main.BaseClass: Website opened
+2023-07-24 20:32:26,407 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 20:32:27,998 :DEBUG :main.BaseClass: From city selected
+2023-07-24 20:32:30,045 :DEBUG :main.BaseClass: To city selected
+2023-07-24 20:32:33,910 :DEBUG :main.BaseClass: Dates got selected
+2023-07-24 20:32:34,756 :DEBUG :main.BaseClass: Paasengers selected
+2023-07-24 20:36:20,733 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 20:36:22,000 :DEBUG :main.BaseClass: Website opened
+2023-07-24 20:36:29,470 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 20:36:30,518 :DEBUG :main.BaseClass: From city selected
+2023-07-24 20:36:32,832 :DEBUG :main.BaseClass: To city selected
+2023-07-24 20:36:36,469 :DEBUG :main.BaseClass: Dates got selected
+2023-07-24 20:36:36,950 :DEBUG :main.BaseClass: Paasengers selected
+2023-07-24 20:37:26,324 :DEBUG :main.BaseClass: Successful booking
+2023-07-24 20:39:22,451 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 20:39:23,017 :DEBUG :main.BaseClass: Website opened
+2023-07-24 20:39:41,519 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 20:39:42,480 :DEBUG :main.BaseClass: From city selected
+2023-07-24 20:39:44,044 :DEBUG :main.BaseClass: To city selected
+2023-07-24 20:39:47,893 :DEBUG :main.BaseClass: Dates got selected
+2023-07-24 20:39:48,413 :DEBUG :main.BaseClass: Passengers selected
+2023-07-24 20:40:02,760 :DEBUG :main.BaseClass: Successful booking
+2023-07-24 22:02:59,776 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:03:00,233 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:03:02,064 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:06:22,080 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:06:22,361 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:06:24,604 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:12:37,402 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:12:38,139 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:12:40,243 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:13:53,016 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:13:53,183 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:13:56,459 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:17:31,331 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:17:31,758 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:37:13,336 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:37:13,731 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:37:18,972 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:37:19,736 :DEBUG :main.BaseClass: From city selected
+2023-07-24 22:37:21,076 :DEBUG :main.BaseClass: To city selected
+2023-07-24 22:37:25,212 :DEBUG :main.BaseClass: Dates got selected
+2023-07-24 22:37:25,583 :DEBUG :main.BaseClass: Passengers selected
+2023-07-24 22:37:39,304 :DEBUG :main.BaseClass: Successful booking
+2023-07-24 22:43:53,723 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:43:54,139 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:43:55,889 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:43:56,647 :DEBUG :main.BaseClass: From city selected
+2023-07-24 22:45:07,274 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:45:07,646 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:45:10,317 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 22:53:56,607 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 22:53:56,947 :DEBUG :main.BaseClass: Website opened
+2023-07-24 22:53:59,447 :DEBUG :main.BaseClass: OTP entered
+2023-07-24 23:00:02,381 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-24 23:00:03,432 :DEBUG :main.BaseClass: Website opened
+2023-07-25 11:02:25,866 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 11:02:27,518 :DEBUG :main.BaseClass: Website opened
+2023-07-25 11:04:19,181 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 11:04:19,411 :DEBUG :main.BaseClass: Website opened
+2023-07-25 18:18:53,014 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 18:18:53,660 :DEBUG :main.BaseClass: Website opened
+2023-07-25 18:29:30,668 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 18:29:31,159 :DEBUG :main.BaseClass: Website opened
+2023-07-25 18:30:41,114 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 18:30:41,299 :DEBUG :main.BaseClass: Website opened
+2023-07-25 19:48:35,421 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 19:48:36,433 :DEBUG :main.BaseClass: Website opened
+2023-07-25 19:49:33,279 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-25 19:49:33,517 :DEBUG :main.BaseClass: Website opened
+2023-07-26 20:41:43,637 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-26 20:41:45,244 :DEBUG :main.BaseClass: Website opened
+2023-07-26 20:42:48,866 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-26 20:42:49,065 :DEBUG :main.BaseClass: Website opened
+2023-07-26 20:43:09,492 :DEBUG :main.BaseClass: From city selected
+2023-07-26 20:43:10,652 :DEBUG :main.BaseClass: To city selected
+2023-07-26 20:43:14,598 :DEBUG :main.BaseClass: Dates got selected
+2023-07-26 20:43:15,135 :DEBUG :main.BaseClass: Passengers selected
+2023-07-26 20:43:32,500 :DEBUG :main.BaseClass: Successful booking
+2023-07-26 20:52:25,796 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-26 20:52:26,231 :DEBUG :main.BaseClass: Website opened
+2023-07-26 20:52:46,147 :DEBUG :main.BaseClass: From city selected
+2023-07-26 20:52:47,358 :DEBUG :main.BaseClass: To city selected
+2023-07-26 20:52:51,106 :DEBUG :main.BaseClass: Dates got selected
+2023-07-26 20:52:51,646 :DEBUG :main.BaseClass: Passengers selected
+2023-07-26 20:53:10,444 :DEBUG :main.BaseClass: Successful booking

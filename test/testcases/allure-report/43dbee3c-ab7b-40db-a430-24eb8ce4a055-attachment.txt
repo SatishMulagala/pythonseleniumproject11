@@ -1,0 +1,7 @@
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:18 Browser Launched New one
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:24 Website opened
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:47 From city selected
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:51 To city selected
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:60 Dates got selected
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:64 Passengers selected
+[35mDEBUG   [0m main.BaseClass:test_e2e.py:69 Successful booking

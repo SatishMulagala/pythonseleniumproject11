@@ -1,0 +1,76 @@
+2023-07-13 20:41:53,643 :DEBUG :testcases.test_e2e: Browser Launched
+2023-07-14 19:46:01,556 :DEBUG :testcases.test_e2e: Browser Launched
+2023-07-14 20:57:04,222 :DEBUG :test.testcases.test_e2e: Browser Launched
+2023-07-14 21:00:11,930 :DEBUG :test.testcases.test_e2e: Browser Launched
+2023-07-14 21:14:07,374 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-14 21:31:08,478 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:16:37,974 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:17:50,392 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:47:48,809 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:49:00,263 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:51:21,833 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 20:51:49,547 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 21:06:42,259 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 21:28:14,914 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 21:51:49,494 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-17 21:54:00,519 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 16:49:33,949 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 20:37:20,610 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 20:43:48,014 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 20:45:57,345 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 21:17:03,561 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 21:17:52,795 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 21:19:25,743 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 22:10:21,139 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-19 22:20:26,874 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 09:37:10,559 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:07:25,675 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:13:40,294 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:15:09,576 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:24:31,359 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:25:56,883 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 11:26:43,421 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 14:51:36,819 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 14:58:46,914 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:05:21,049 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:09:56,861 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:16:57,580 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:20:03,721 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:55:08,411 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 15:59:18,602 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 20:44:09,847 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-20 21:20:57,151 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 18:59:44,619 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 19:01:07,925 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 20:31:11,567 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 20:31:33,217 :DEBUG :main.BaseClass: Website opened
+2023-07-21 20:31:47,491 :DEBUG :main.BaseClass: OTP entered
+2023-07-21 20:31:48,558 :DEBUG :main.BaseClass: From city selected
+2023-07-21 20:31:50,473 :DEBUG :main.BaseClass: To city selected
+2023-07-21 20:37:15,876 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 20:37:30,715 :DEBUG :main.BaseClass: Website opened
+2023-07-21 20:37:50,426 :DEBUG :main.BaseClass: OTP entered
+2023-07-21 20:37:51,447 :DEBUG :main.BaseClass: From city selected
+2023-07-21 20:37:54,177 :DEBUG :main.BaseClass: To city selected
+2023-07-21 20:37:57,935 :DEBUG :main.BaseClass: Dates got selected
+2023-07-21 20:37:58,504 :DEBUG :main.BaseClass: Paasengers selected
+2023-07-21 20:44:52,773 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 20:45:25,968 :DEBUG :main.BaseClass: Website opened
+2023-07-21 20:45:44,106 :DEBUG :main.BaseClass: OTP entered
+2023-07-21 20:45:44,972 :DEBUG :main.BaseClass: From city selected
+2023-07-21 20:45:46,288 :DEBUG :main.BaseClass: To city selected
+2023-07-21 20:45:50,911 :DEBUG :main.BaseClass: Dates got selected
+2023-07-21 20:45:51,506 :DEBUG :main.BaseClass: Paasengers selected
+2023-07-21 20:46:04,683 :DEBUG :main.BaseClass: Successful booking
+2023-07-21 20:58:26,708 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 20:58:46,608 :DEBUG :main.BaseClass: Website opened
+2023-07-21 21:12:18,587 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 21:12:36,295 :DEBUG :main.BaseClass: Website opened
+2023-07-21 21:27:30,331 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 21:27:51,773 :DEBUG :main.BaseClass: Website opened
+2023-07-21 21:33:29,206 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 21:33:41,032 :DEBUG :main.BaseClass: Website opened
+2023-07-21 21:36:11,097 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 21:36:25,137 :DEBUG :main.BaseClass: Website opened
+2023-07-21 21:39:49,395 :DEBUG :main.BaseClass: Browser Launched New one
+2023-07-21 21:39:49,998 :DEBUG :main.BaseClass: Website opened
